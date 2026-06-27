@@ -1,0 +1,96 @@
+/*<!--NAZI LOGIN PAGE -->*/
+/*#SUB_BODY{
+    background-color: rgba(255, 255, 255, 0.976);
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}*/
+
+#about{
+    background-color: rgb(218, 218, 218);
+    width: auto;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:flex-end;
+    BORDER: 2.3PX SOLID rgb(155, 128, 128);
+    BORDER-RADIUS: 5PX;
+}
+#TOP{
+    width: auto;
+    height: auto;
+    border-color: black;
+    background-color: rgb(212, 211, 211);
+    background: linear-gradient(rgb(205, 205, 205), rgb(163, 105, 105));
+    display:CENTER;
+}
+#cube {
+    background-image: url(8b95dc5f-1362-4971-929c-81942fb8ca7a.jpeg);
+    background-size: 100%;
+    width: fit-content;
+    height: FIT-CONTENT;
+    align-items: center;
+    border-radius: 9%;
+    CONTENT-ALIGN:FIT-CONTENT;
+    margin: auto;
+}
+#NAZI{
+    color: rgb(255, 64, 64);
+    border-color: black;
+    border: 2PX;
+}
+#qheader {
+    font-size: auto;
+    color: rgb(59, 59, 59);
+    font-family:d;
+}
+label {
+    color: rgb(0, 117, 220);
+    font-family: d;
+    font-size: auto;
+
+}
+ input {
+    opacity: 80%;
+    border-radius:20px;
+}
+#SUBMIT {
+    background-color: aliceblue;
+    border: 0px;
+    border-radius: 10px;
+    height: 30PX;
+    width: 70PX;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    FONT-SIZE: AUTO;
+    opacity: 85%;
+    cursor: url("pixil-frame-0 (2).cur"), pointer;
+    
+}
+
+/*<!--ABOUT PAGE -->*/
+
+#container {
+    height: auto;
+    background-color: beige;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    padding:5;
+}
+.box1 {
+    height: auto;
+    background-color: rgb(221, 220, 220);
+    border: 2px solid rgb(196, 169, 169);
+    color: rgb(216, 77, 77);
+}
+/*<!--AFTER LOGIN PAGE-->*/
+
+#
+
+#macha{
+    color: rgb(69, 5, 5);
+    font-size: 30PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
