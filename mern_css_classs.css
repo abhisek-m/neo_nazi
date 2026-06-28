@@ -27,11 +27,6 @@ html, body{
     align-items:flex-end;
     BORDER: 2.3PX SOLID rgb(155, 128, 128);
     BORDER-RADIUS: 5PX;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
 }
 #TOP{
     width: auto;
@@ -108,7 +103,6 @@ label {
 }
 /*<!--AFTER LOGIN PAGE-->*/
 
-#
 
 #macha{
     color: rgb(69, 5, 5);
